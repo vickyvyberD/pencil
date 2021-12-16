@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pencil</folder>
+	<filename>pencil_1.jpeg</filename>
+	<path>C:\Users\vigne\Desktop\imageai\simple_images\pencil\pencil_1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pencil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>6</ymin>
+			<xmax>396</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
